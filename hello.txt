@@ -13,4 +13,5 @@ hello guojihao! hello git!
 hello guojihao! hello git!
 hello guojihao! hello git!
 hello guojihao! hello git! master test
-hello guojihao! hello git! 
+hello guojihao! hello git! host-fix test
+>>>>>>> host-fix
